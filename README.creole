@@ -1,4 +1,5 @@
-= MCBouncer =
+# MCBouncer
+
 MCBouncer is a Minecraft ban service. Unlike other ban services for Minecraft, all bans are local to the server that makes them. What this means is that one servers bans do not affect entrance to other servers. The exception to this is if your server subscribes to another server's bans. Appeals are not handled by MCBouncer, all appeals are handled by the staff of the issuing server.
 
 MCBouncer is more aimed to be an information system, what this means is that while all bans are local, other servers see the bans of all the other servers and make their own decisions on users from that. You can also access all ban information from the website as well as from the server if you have a valid API key.
